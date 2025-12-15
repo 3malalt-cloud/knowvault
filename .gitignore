@@ -1,0 +1,18 @@
+# Verschlüsselte Secrets - NIEMALS committen!
+data/secrets.dat
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+
+# Logs & Temporäre Dateien
+*.log
+.env
+
+# IDE
+.vscode/
+.idea/
