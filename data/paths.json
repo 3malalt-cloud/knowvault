@@ -1,8 +1,15 @@
 {
-  "links": [],
+  "links": [
+    {
+      "title": "github",
+      "url": "https://github.com/3malalt-cloud/knowvault",
+      "category": "Allgemein",
+      "tags": [],
+      "created_at": "2025-12-15T21:00:18.597777"
+    }
+  ],
   "metadata": {
-    "created": "2025-12-15",
     "version": "1.0",
-    "description": "KnowVault Link-Speicher (unverschlüsselt)"
+    "total_links": 1
   }
 }
